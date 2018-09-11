@@ -1,4 +1,6 @@
 Modeling and Data Analysis in Neuroscience
 
 	Chapter 1: The integrate-and-fire model.
-	Chapter 2: Hodgkin-Huxley neuron.
+	Chapter 2: Hodgkin-Huxley neuron.
+	Chapter 3: More neuron models.
+
